@@ -16,3 +16,11 @@ Route::get('/test','TestController@index');
 Route::resources([
     'department' => 'Department\DepartmentController',
 ]);
+
+Route::resources([
+    'project' => 'Project\ProjectController',
+]);
+
+Route::resources([
+    'employee' => 'Employee\EmployeeController',
+]);

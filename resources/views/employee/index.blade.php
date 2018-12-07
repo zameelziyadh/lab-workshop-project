@@ -6,7 +6,7 @@
         <li class="breadcrumb-item">
             <a href="#">Home</a>
         </li>
-        <li class="breadcrumb-item active">Departments</li>
+        <li class="breadcrumb-item active">Employees</li>
     </ol>
     <h3>Departments</h3>
     <hr>
@@ -19,9 +19,9 @@
 
     <div class="panel panel-default">
         <div class="panel-top-links m-t-sm m-b-sm">
-            <a href="#" class="btn btn-secondary btn-xs go-to-back-button"><i class="fa fa-arrow-left"></i> Go Back</a>
-            <a href="{{ route('department.create') }}" class="btn btn-success btn-xs"><i class="fa fa-plus"></i> Add
-                Department</a>
+            <a href="#" class="btn btn-secondary btn-xs go-to-button"><i class="fa fa-arrow-left"></i> Go Back</a>
+            <a href="{{ route('employee.create') }}" class="btn btn-success btn-xs"><i class="fa fa-plus"></i> Add
+                Employee</a>
         </div>
         <div class="panel-body">
             <table class="table table-bordered">

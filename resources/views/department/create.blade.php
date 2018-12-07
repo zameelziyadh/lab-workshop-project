@@ -21,7 +21,7 @@
         <div class="col-sm-12 col-sm-offset-3">
 
         <div class="panel-top-links m-t-sm m-b-sm float-lg-right">
-            <a href="#" class="btn btn-secondary btn-xs go-to-button"><i class="fa fa-arrow-left"></i> Go Back</a>
+            <a href="#" class="btn btn-secondary btn-xs go-to-back-button"><i class="fa fa-arrow-left"></i> Go Back</a>
         </div>
         <div class="panel-body">
             <div class="col-sm-6">
